@@ -12,6 +12,7 @@ function Contact() {
           <input type="email" placeholder="Your Art Email" />
           <input type="tel" placeholder="Phone Number" />
           <textarea placeholder="Tell us how we can help!"></textarea>
+	  <button class="submit">Submit</button>
         </form>
       </div>
     </section>

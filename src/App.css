@@ -234,7 +234,16 @@ textarea {
   );
   border-radius: 10px;
 }
-
+.submit {
+  background-color: rgb(149, 63, 152);
+  width: 150px;
+  height: 40px;
+  border-radius: 5px;
+  margin: 30px 20px 20px 200px;
+  border: 2px solid rgb(149, 63, 152);
+  color: white;
+  font-size: 1em;
+}
 /*Footer*/
 
 .footer {
