@@ -36,6 +36,7 @@ A responsive product landing page built with **React** to showcase the **SketchM
 The main components are located in the `src/` directory:
 
 | File | Description |
+| :--- | :--- |
 | `App.js` | The main container component, assembling all page sections. |
 | `index.js` | The entry point that renders the main `App` component. |
 | `Home.js` | The main product hero section with price and CTAs. |
@@ -43,3 +44,5 @@ The main components are located in the `src/` directory:
 | `Features.js` | Highlights the key selling points of the product. |
 | `Showcase.js` | Lists the items included in the Deluxe kit. |
 | `App.css` | All the styling for the page components. |
+
+---
